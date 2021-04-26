@@ -5,6 +5,6 @@ docs/
 model/
 checkpoints/
 checkpoints.tar.gz
-oa_classifier_pain.py
+ifier_pain.py
 deep-pain.py
 .vscode/
