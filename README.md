@@ -1,6 +1,5 @@
 # DeepDeepPain: Uncovering Associations Between Data-Driven Learned qMRI Biomarkers and Chronic Pain
-Repository for the paper "DeepPain: Uncovering Associations Between Data-Driven Learned qMRI Biomarkers and Chronic Pain" currently under review in Nature Scientific Reports. 
-This repository contains the model checkpoints, dataset splits, and demographic information for the study.
+Repository for the paper *"DeepPain: Uncovering Associations Between Data-Driven Learned qMRI Biomarkers and Chronic Pain"* currently under review in Nature Scientific Reports. This repository contains the model checkpoints, dataset splits, and demographic information for the study.
 
 ## Models
 The models used for this study are ResNet50 implemented on pytorch.
